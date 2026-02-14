@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "fantasy/reality",
+  "base_artist": "Nornis",
+  "createdAt": "2026-02-14T12:43:07.126232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fantasy",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/01_Fantasy_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fantasy",
+      "artist": "Eternity Forever",
+      "has_synced": true,
+      "path": "select/02_Fantasy_Eternity_Forever.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Final Fantasy",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Final_Fantasy_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fantasy (feat. Lil Flash)",
+      "artist": "Yung Lean feat. Lil Flash",
+      "has_synced": true,
+      "path": "select/04_Fantasy_(feat._Lil_Flash)_Yung_Lean_feat._Lil_Flash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fantasy (feat. Lil Flash)",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/05_Fantasy_(feat._Lil_Flash)_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fantasy",
+      "artist": "Lush",
+      "has_synced": false,
+      "path": "select/06_Fantasy_Lush.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fantasy",
+      "artist": "Mariah Carey feat. Ol' Dirty Bastard",
+      "has_synced": true,
+      "path": "select/07_Fantasy_Mariah_Carey_feat._Ol'_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fantasy",
+      "artist": "Mariah Carey feat. O.D.B.",
+      "has_synced": true,
+      "path": "select/08_Fantasy_Mariah_Carey_feat._O.D.B..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fantasy (Feat. O.D.B.)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/09_Fantasy_(Feat._O.D.B.)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Her Fantasy",
+      "artist": "Matthew Dear",
+      "has_synced": false,
+      "path": "select/10_Her_Fantasy_Matthew_Dear.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What's Your Fantasy (feat. Shawna)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/11_What's_Your_Fantasy_(feat._Shawna)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What's Your Fantasy (Feat. Shawnna)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/12_What's_Your_Fantasy_(Feat._Shawnna)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What's Your Fantasy (Remix)",
+      "artist": "Ludacris feat. Foxy Brown, Shawnna & Trina",
+      "has_synced": false,
+      "path": "select/13_What's_Your_Fantasy_(Remix)_Ludacris_feat._Foxy_Brown,_Shawnna_&_Trina.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What's Your Fantasy (Remix) (Feat. Trina, Shawnna & Foxy Brown)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/14_What's_Your_Fantasy_(Remix)_(Feat._Trina,_Shawnna_&_Foxy_Brown)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fantasy (Bad Boy Fantasy Remix) (Feat. Ol' Dirty Bastard)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/15_Fantasy_(Bad_Boy_Fantasy_Remix)_(Feat._Ol'_Dirty_Bastard)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blame on Me (feat. Brennan Savage, Fantasy Camp, Lil Lotus, Jon Simmons, Smrtdeath, Horse Head & Lil Zubin)",
+      "artist": "Nedarb Nagrom",
+      "has_synced": false,
+      "path": "select/16_Blame_on_Me_(feat._Brennan_Savage,_Fantasy_Camp,_Lil_Lotus,_Jon_Simmons,_Smrtdea_Nedarb_Nagrom.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Funeral Fantasy",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/17_Funeral_Fantasy_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Head Over Heels (feat. Mackned, Lil Zubin, Lil Tracy, Fantasy Camp & Yawns)",
+      "artist": "Nedarb Nagrom",
+      "has_synced": true,
+      "path": "select/18_Head_Over_Heels_(feat._Mackned,_Lil_Zubin,_Lil_Tracy,_Fantasy_Camp_&_Yawns)_Nedarb_Nagrom.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fantasy/reality",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_fantasy_reality_Nornis.txt"
+    }
+  ]
+}
