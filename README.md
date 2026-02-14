@@ -1,0 +1,116 @@
+# Nornis – fantasy/reality
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+妄想の混沌に 絶望したトリロジー
+ユーモアも尽きた　消したいな
+ゆらり　ゆらり　ゆら
+(I’m talking about a place)
+fantasy.
+(I’m talking about a place)
+reality.
+超自我……。
+白日に晒すリアリティ。
+La La La…..
+(白日に晒すリアリティ。)
+地球(ここ)はあなたの
+居場所じゃないの
+(見つからないの)
+世界側に権利があるなら
+こっちはだれでもなんでもない
+其処(そこ)はまだ確立されないから
+(てか、され「て」ないから)
+からかい も やなやつ も いない
+“Come into your sight”
+Inside your head
+What’s goin’ on？
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+In your sleep, you see yourself
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+Inside your head
+What’s goin’ on？
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+In your sleep, you see yourself
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+(I’m talking about a place)
+fantasy.
+(I’m talking about a place)
+reality.
+超自我……。
+白日に晒すリアリティ。
+bully. (No！)
+ridicule. (No！)
+discrimination. (No！)
+bully. (No！)
+ridicule. (No！)
+My life is as
+a loser or winner？
+あいつがあなたを攻撃するのは
+(……ハックしたいから)
+ただ　だるい　現世をやめたい
+こっちの命はなんでもない
+きみが見据えた光のキーは
+(多分その場にないから)
+からかい も やなやつ も いらない
+“Come into my sight”
+Inside your head
+What’s goin’ on？
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+In your sleep, you see yourself
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+Inside your head
+What’s goin’ on？
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+In your sleep, you see yourself
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+(I’m talking about a place)
+fantasy.
+(I’m talking about a place)
+reality.
+超自我……。
+白日に晒すリアリティ。
+Inside your head
+What’s goin’ on？
+In your sleep, you see yourself
+Inside your head
+What’s goin’ on？
+In your sleep…
+“Never forget me.”
+Inside your head
+What’s goin’ on？
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+In your sleep, you see yourself
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+Inside your head
+What’s goin’ on？
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+In your sleep, you see yourself
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+Inside your head
+What’s goin’ on？
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+In your sleep, you see yourself
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+Inside your head
+What’s goin’ on？
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+In your sleep, you see yourself
+(La-da-di, La-da-da
+La-da-di, La-da-da)
+```
